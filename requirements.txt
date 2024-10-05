@@ -1,2 +1,7 @@
 tensorflow
 ipykernel
+numpy
+scikit-learn
+opencv-python
+matplotlib
+seaborn
